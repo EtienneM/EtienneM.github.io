@@ -2,7 +2,7 @@
 title: My Website
 description: "Here comes the description of your website"
 url: "http://etiennem.github.io/"
-baseurl: ""
+baseurl: "/"
 timezone: Europe/Paris
 encoding: utf-8
 #defaults:
