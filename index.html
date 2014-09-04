@@ -2,4 +2,26 @@
 title: Page d'accueil
 layout: home
 ---
-Hello World
+
+<header>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+</header>
+
+<div id="list-articles">
+  <section>
+    <h2>Last articles</h2>
+    <ul>
+      {% for post in site.posts | limit:site.homeArticle %}
+      <li class="article">
+      <a href="{{ post.url | prepend : site.baseurl }}">{{post.title }} 
+        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%d %B %Y" }}</time>
+      </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>
+<footer class="article-footer home-footer">
+  <a href="{{ site.baseurl}}/archives">Previous articles...</a>
+</footer>
