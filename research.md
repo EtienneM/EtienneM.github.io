@@ -6,10 +6,9 @@ permalink: /research/
 
 The most recent updates about my research are probably on one of these websites:
 
-[<img src="/img/ResearchGate.png" alt="ResearchGate icon" style="width:50px" />](https://www.researchgate.net/profile/Etienne_Michon2)
-[<img src="/img/scholar.png" alt="Google Scholar icon" style="width:50px" />](http://scholar.google.com/citations?user=-EPwIk4AAAAJ)
-
-LinkedIn: ![LinkeIn icon](/img/linkedin.jpg){: .socialIcon}
+[![ResearchGate icon](/img/ResearchGate.png){: .socialIcon}](https://www.researchgate.net/profile/Etienne_Michon2)
+[![Google Scholar icon](/img/scholar.png){: .socialIcon}](http://scholar.google.com/citations?user=-EPwIk4AAAAJ)
+[![LinkeIn icon](/img/linkedin.jpg){: .socialIcon}](https://www.linkedin.com/profile/view?id=85024349&trk=nav_responsive_tab_profile)
 
 # Research interests
 
