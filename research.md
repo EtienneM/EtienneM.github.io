@@ -16,5 +16,13 @@ test
 
 # Publications
 
-test2
+### Free elasticity and free CPU power for scientific workloads on IaaS Clouds
+Étienne Michon, Julien Gossa, Stéphane Genaud
+18th IEEE International Conference on Parallel and Distributed Systems
+[PDF](/files/icpads-12.pdf)
+
+### Porting Grid applications to the Cloud with Schlouder
+Étienne Michon, Julien Gossa, Stéphane Genaud, Marc Frincu, Alexandre Burel
+CloudCom-5th IEEE International Conference on Cloud Computing Technology and Science
+[PDF](/files/cloudcom-13.pdf)
 
