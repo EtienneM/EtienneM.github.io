@@ -5,13 +5,13 @@ url: "http://etiennem.github.io/"
 baseurl: ""
 timezone: Europe/Paris
 encoding: utf-8
-defaults:
-	-
-		scope:
-			path: "" # an empty string here means all files in the project
-		values:
-			layout: "default"
-			author: "Étienne Michon"
+#defaults:
+#	-
+#		scope:
+#			path: "" # an empty string here means all files in the project
+#		values:
+#			layout: "default"
+#			author: "Étienne Michon"
 
 # Sheekyll settings
 logoUrl: http://placehold.it/160
