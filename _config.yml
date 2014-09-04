@@ -1,3 +1,8 @@
+# Site settings
+title: My Website
+description: "Here comes the description of your website"
+url: "http://etiennem.github.io/"
+baseurl: ""
 timezone: Europe/Paris
 encoding: utf-8
 defaults:
@@ -7,3 +12,12 @@ defaults:
 		values:
 			layout: "default"
 			author: "Étienne Michon"
+
+# Sheekyll settings
+logoUrl: http://placehold.it/160
+email: etienne.michon@riseup.net
+homeArticle: 5
+
+# Build settings
+markdown: kramdown
+permalink: pretty
