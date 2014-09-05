@@ -13,9 +13,9 @@ J'enseigne ou j'ai enseigné en tant que chargé de TD les matières suivantes&n
 
 # Les cours actuels
 
-* Introduction aux systèmes informatiques (DUT 1ière année, 1er semestre)
-* Introduction à l'algorithmique et à la programmation (DUT 1ière année, 1er semestre)
-* Programmation orienté objet (Licence pro, 1er semestre)
+* [Introduction aux systèmes informatiques](https://moodle2.unistra.fr/course/view.php?id=934) (DUT 1ière année, 1er semestre)
+* [Introduction à l'algorithmique et à la programmation](https://moodle2.unistra.fr/course/view.php?id=1538) (DUT 1ière année, 1er semestre)
+* [Programmation orientée objet](https://moodle2.unistra.fr/course/view.php?id=1880) (Licence pro, 1er semestre)
 
 # Les anciens cours
 
