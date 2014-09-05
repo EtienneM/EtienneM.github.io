@@ -21,8 +21,8 @@ J'enseigne ou j'ai enseigné en tant que chargé de TD les matières suivantes&n
 
 * Introduction à l'algorithmique et à la programmation (DUT 1ière année, 1er semestre)
 * Projet tuteuré (DUT 2ième année, 1er semestre)
-* Initiation aux réseaux (DUT 1ière année, 2ième semestre)
-* Réseaux - cours avancé (DUT 2ième année, 1er semestre)
+* Comprendre les réseaux (DUT 1ière année, 2ième semestre)
+* Comprendre les réseaux - cours avancé (DUT 2ième année, 1er semestre)
 
 
 
