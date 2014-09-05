@@ -14,7 +14,7 @@ encoding: utf-8
 #			author: "Étienne Michon"
 
 # Sheekyll settings
-logoUrl: http://placehold.it/160
+logoUrl: "/img/homeIcon.png"
 email: etienne.michon@riseup.net
 homeArticle: 5
 
