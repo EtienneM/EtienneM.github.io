@@ -12,17 +12,21 @@ The most recent updates about my research are probably on one of these websites:
 
 # Research interests
 
-test
+I am currently preparing a PhD in Computer Science at the University of Strasbourg (France), with a M.S. from the same university. My research interests include distributed computing, high-performance computing and adaptive provisioning strategies.
 
 # Publications
 
 ### Free elasticity and free CPU power for scientific workloads on IaaS Clouds
 Étienne Michon, Julien Gossa, Stéphane Genaud
+
 18th IEEE International Conference on Parallel and Distributed Systems
+
 [PDF](/files/icpads-12.pdf)
 
 ### Porting Grid applications to the Cloud with Schlouder
 Étienne Michon, Julien Gossa, Stéphane Genaud, Marc Frincu, Alexandre Burel
+
 CloudCom-5th IEEE International Conference on Cloud Computing Technology and Science
+
 [PDF](/files/cloudcom-13.pdf)
 
