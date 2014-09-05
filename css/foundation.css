@@ -94,7 +94,7 @@ ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
 ul.square { list-style: square outside; }
 ul.circle { list-style: circle outside; }
 ul.disc { list-style: disc outside; }
-li { margin-bottom: 12px; }
+li { margin-bottom: 12px; font-size: 1.5rem; }
 ul.large li { line-height: 21px; }
 
 
