@@ -133,7 +133,7 @@ body {
 }
 header {
   text-align:center;
-  padding-top: 178px;
+  padding-top: 200px;
   margin:50px auto;
 }
 header h1 {
@@ -259,7 +259,7 @@ article h2:before {
 }
 
 #content header {
-  padding-top: 178px;
+  padding-top: 200px;
 }
 /** List **/ 
 #post-content ul, #post-content ol {
@@ -400,5 +400,14 @@ code {
 
 .socialIcon {
 	width: 50px;
+}
+
+div#socialIcon {
+  text-align:center;
+  margin-top: 200px;
+  position: absolute;
+  margin-left: -80px !important;
+  left: 46%;
+  z-index:10;
 }
 
