@@ -24,7 +24,7 @@ if [ ! -d $MYSQL_BACKUP_DIRECTORY ]; then
 	mkdir $MYSQL_BACKUP_DIRECTORY
 fi
 echo "Dump the mysql database into $MYSQL_BACKUP"
-mysqldump --user=root --password=TODO_PASSWORD owncloud > $MYSQL_BACKUP
+mysqldump --lock-tables --user=root --password=TODO_PASSWORD owncloud > $MYSQL_BACKUP
 
 #===============================
 # Check if the backup is mounted
