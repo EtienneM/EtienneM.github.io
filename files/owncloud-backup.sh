@@ -53,7 +53,7 @@ echo "Backup"
 # -p   preserve permissions
 # -t   preserve times
 # -g   preserve group
-rsync -vrlptg $OWNCLOUD_DATA $MYSQL_BACKUP $MOUNT_DIRECTORY --exclude='owncloud-data/*/files*' --exclude='*/cache/*'
+rsync -vrlptg $OWNCLOUD_DATA $MYSQL_BACKUP $MOUNT_DIRECTORY --exclude='owncloud-data/*/files*' --exclude='*/cache/*' --exclude='*/lucene_index/*'
 cp $OWNCLOUD_DIR/config/config.php $MOUNT_DIRECTORY
 
 #========================
