@@ -51,5 +51,9 @@ Eventually, take the init script [here](/files/init.d_php5-fpm) and copy it to
 Run `service php-5.6 start` and here we are! You have your own compiled php
 version working.
 
+If everything is fine, modify you runlevel scripts using:
+
+	update-rc.d php-5.6 defaults
+
 Note: If you need the php CLI, you may have to modify the file `/usr/bin/php5`
 in order to link it to `/opt/php-5.6/bin/php`.
