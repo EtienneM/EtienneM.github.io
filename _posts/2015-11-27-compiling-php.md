@@ -52,4 +52,4 @@ Run `service php-5.6 start` and here we are! You have your own compiled php
 version working.
 
 Note: If you need the php CLI, you may have to modify the file `/usr/bin/php5`
-in order to link it to /opt/php-5.6/bin/php.
+in order to link it to `/opt/php-5.6/bin/php`.
