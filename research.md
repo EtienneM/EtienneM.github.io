@@ -12,7 +12,9 @@ The most recent updates about my research are probably on one of these websites:
 
 # Research interests
 
-I am currently preparing a PhD in Computer Science at the University of Strasbourg (France), with a M.S. from the same university. My research interests include distributed computing, high-performance computing and adaptive provisioning strategies.
+I got a PhD in Computer Science at the University of Strasbourg (France), with a
+M.S. from the same university. My research interests include distributed
+computing, high-performance computing and adaptive provisioning strategies.
 
 # Publications
 
